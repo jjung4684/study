@@ -34,12 +34,16 @@ vue directive
     v-bind => :
     v-on => @
 ```
-
 ### 2022-04-25
 ```
-1. entry 파일 분석
+1. vuex 개념, 예제코딩 해보기
+2. ES6 문법 
+3. vuex 헬퍼 함수
+```
 
-2. entry 파일의 vue 생성자에서 store를 선언하는 방법 
-제일 먼저 읽는 main.js에서 vue 인스턴스에 store를 모듈로 가져온다.
-
+### 2022-04-28
+```
+1. store module
+2. vue router
+3. entry 파일 분석
 ```
